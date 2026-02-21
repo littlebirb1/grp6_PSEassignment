@@ -17,15 +17,13 @@
 
 ### 4. 
 
-## ❗ Problem Description
+##  Product Vision
 
-University students and staff face significant challenges when trying to access healthcare services through traditional clinic systems. This present a variety of issues which include:
+**Project Title:** Campus Health Hub
+**SDG Focus:** Good Health and Well-Being (SDG 3)
 
-### 1. Issue 1
-
-### 2. Issue 2
-
-### 3. Issue 3
+**Vision Statement:**
+Currently, university students and staff are faced with long waiting times and inefficient booking systems in the traditional clinic setup. Our proposed solution provides an online appointment booking system that improves accessibility and efficiency in healthcare. Through our online system, we are actively working to achieve SDG 3.8 (Universal Health Coverage) and SDG 3.4 (Promoting Mental Health and Well-being)
 
 ---
 
