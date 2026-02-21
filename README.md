@@ -13,7 +13,7 @@
 
 ### 2. Aryss Chan Mei Jia
 
-### 3. 
+### 3. Hadil Arafat Mohammed Rashad
 
 ### 4. 
 
