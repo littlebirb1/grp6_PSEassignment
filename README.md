@@ -17,6 +17,14 @@ Currently, university students and staff are faced with long waiting times and i
 
 ---
 
+## 👷 Project Description
+
+### -
+
+### -
+
+---
+
 ## 👨‍💻 Team Members
 
 ### 1. Ahmad Yusuf Zahin Bin Ahmad Azrin
@@ -26,14 +34,6 @@ Currently, university students and staff are faced with long waiting times and i
 ### 3. Hadil Arafat Mohammed Rashad
 
 ### 4. 
-
----
-
-## 👷 Project Description
-
-### -
-
-### -
 
 ---
 
