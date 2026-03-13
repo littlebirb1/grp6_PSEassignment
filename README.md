@@ -45,7 +45,9 @@ Patients are increasingly more likely to leave a cycle of treatments and prescri
 Project Description
 
 As part of the Campus Health Hub project, we are developing an application aimed at improving university students' access to health care services. We are also improving communication with health care professionals. The project directly connects to the university's overall commitment to student well-being and commitment to the United Nations Sustainable Development Goals (SDGs), in particular, SDG 3 (Good Health and Wellbeing). The app's design targets potential barriers (waiting, clinic hours, in-person care reluctance) that students face and promotes health care access, improving health (mental, physical) and academic outcomes. The Campus Health Hub app will be a significant component of the university's overall strategy to improve student health and wellbeing.
-------
+
+
+-------
 Main features
 
 Online Appointment Booking :Create appointments from any device, at any time!
