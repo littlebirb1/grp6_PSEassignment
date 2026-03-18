@@ -1,10 +1,10 @@
-@@ -1,89 +1,92 @@
+
 # Agile Software Solution for Sustainable Development 
 # 🏥 Campus Health Hub
-Agile Software Solution for Sustainable Development
+
 
 ---
-Campus Health Hub
+
 
 ## **💊 Project Vision**
 Project Vision
@@ -60,9 +60,6 @@ Less information may lead to less effective health-related decisions. When healt
 ## 👷 Project Description
 5. Barriers and stigmas to Mental Health
 
-Campus Health Hub is a software-based application designed to bridge the gap between students and essential healthcare services within a university environment. It addresses critical concerns aligned with “Good Health and Wellbeing” under the 3rd Sustainable Development goal. The platform assists in empowering students to schedule health appointments and engage in direct, secure communication with qualified health professionals. By streamlining access to campus health resources, Campus Health Hub reduces barriers commonly faced by students including long waiting times, limited clinic hours, and reluctance to seek in-person care. The application promotes proactive health management, encouraging early intervention for both physical and mental health concerns before they escalate and negatively impact academic performance. Campus Health Hub represents a targeted digital solution toward fostering healthier, more supported student communities within higher education institutions.
-Some students may not feel comfortable visiting mental health services or clinics. The lack of online scheduling for these services makes accessing mental health services even harder.
-
 ## ✨ Key Features
 6. Improper Use of Resources
 
@@ -77,66 +74,32 @@ Some students may not feel comfortable visiting mental health services or clinic
 Without an understanding of appointment patterns, administrators cannot manage time or staff effectively.
 
 ---
-7. No Follow-Up Appointment System
 
 ## 👨‍💻 Team Members
-Patients are increasingly more likely to leave a cycle of treatments and prescriptions unfinished when there is no appointment reminder system, increasing the risk of worsening health.
+
 
 ### 1. Ahmad Yusuf Zahin Bin Ahmad Azrin
-Project Description
+
 
 ### 2. Aryss Chan Mei Jia
-As part of the Campus Health Hub project, we are developing an application aimed at improving university students' access to health care services. We are also improving communication with health care professionals. The project directly connects to the university's overall commitment to student well-being and commitment to the United Nations Sustainable Development Goals (SDGs), in particular, SDG 3 (Good Health and Wellbeing). The app's design targets potential barriers (waiting, clinic hours, in-person care reluctance) that students face and promotes health care access, improving health (mental, physical) and academic outcomes. The Campus Health Hub app will be a significant component of the university's overall strategy to improve student health and wellbeing.
-------
-Main features
 
 ### 3. Hadil Arafat Mohammed Rashad
-Online Appointment Booking :Create appointments from any device, at any time!
+
 
 ### 4. SUN QIAN
- Automated reminders: SMS and email notifications of upcoming appointments
 
 ---
- Electronic Health Records : Records are stored securely and can be accessed by authorized providers
-
-Teleconsultation Support : Video calls are integrated for virtual consultations
-
- Secure Authentication: Role-based access for students, staff, doctors, and admin
 
 ## 📌 SDLC Project Overview
- Admin Dashboard: Appointment and resource utilization analytics dashboard
 
 ### 💻 Planning
- Prescription & Referral Tracking: Digital prescriptions & specialist referrals
 
 ### 🎨 Design
- Mental Health Booking: Psychological services booking done privately
 
 ### 🧪 Testing
------
 
 ### ✅ Final 
-Team Members
 
-----
- 1. Ahmad Yusuf Zahin Bin Ahmad Azrin
 
-2. Aryss Chan Mei Jia
 
- 3. Hadil Arafat Mohammed Rashad
 
- 4. SUN QIAN
-
----
-
- SDLC Project Overview
-
-Planning
-
-Design
-
-Testing
-
-Final
-
----
