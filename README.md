@@ -7,17 +7,15 @@
 
 
 ## **💊 Project Vision**
-Project Vision
 
 ### **🔨 Project Title:** 
 Project title: Campus Health Hub
 
 ### **♻️ SDG Focus:** 
 🩺 Sustainable Development Goal 3: Good Health And Wellbeing
-SDG Focus: Sustainable Development Goal 3: Good Health and Wellbeing
 
-### **👀 Vision Statement:**
-Vision Statement:
+
+### **💊 Project Vision**
 
 Currently, university students and staff are faced with long waiting times and inefficient booking systems in the traditional clinic setup. Our proposed solution provides an online appointment booking system that improves accessibility and efficiency in healthcare. Through our online system, we are actively working to achieve SDG 3.8 (Universal Health Coverage) and SDG 3.4 (Promoting Mental Health and Well-being).
 The traditional clinic setup has resulted in inefficient booking systems and long waiting times for university students and staff. Our proposed solution is an online appointment booking system to streamline and ease access to healthcare services. This contributes to SDG 3.8 (Universal Health Coverage) and SDG 3.4 (Mental Health and Well-being).
@@ -54,10 +52,6 @@ After a consultation, there is no structured system to remind patients about fol
 4. Records are not kept in the right way
 
 ---
-Less information may lead to less effective health-related decisions. When health service providers have incomplete information and vague patient histories, redundant visits and consultations do not guarantee holistic health-related assistance.
-
-## 👷 Project Description
-5. Barriers and stigmas to Mental Health
 
 ## ✨ Key Features
 6. Improper Use of Resources
