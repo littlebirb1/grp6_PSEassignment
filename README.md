@@ -10,7 +10,6 @@
 Project Vision
 
 ### **🔨 Project Title:** 
-🏥 Campus Health Hub
 Project title: Campus Health Hub
 
 ### **♻️ SDG Focus:** 
@@ -80,11 +79,9 @@ Without an understanding of appointment patterns, administrators cannot manage t
 
 ### 1. Ahmad Yusuf Zahin Bin Ahmad Azrin
 
-
 ### 2. Aryss Chan Mei Jia
 
 ### 3. Hadil Arafat Mohammed Rashad
-
 
 ### 4. SUN QIAN
 
